@@ -103,9 +103,8 @@ cl snake_game.cpp
 - Leaderboard for multiple users
 
 ---
----
 
-💌 About the Developer
+## 💌 About the Developer
 This game was built with passion, patience, and a lot of love for learning and coding.
 Crafted by Misiker(Rio) — a curious developer from Ethiopia, dreaming big and building one line of code at a time. 💻💖
 
