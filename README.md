@@ -76,21 +76,21 @@ cl snake_game.cpp
 ## 🖼️ Console Display Example
 
 ```
-          ******************************
-          *                            *
-          *        O              #    *
-          *        o                   *
-          *                            *
-          *                            *
-          *                            *
-          *                            *
-          *                            *
-          ******************************
-          Time: 0:24
-          Best Time: 2:15
-          Score: 2
-          High Score: 15
-          Press P to Pause
+                            ******************************
+                            *                            *
+                            *        O              #    *
+                            *        o                   *
+                            *                            *
+                            *                            *
+                            *                            *
+                            *                            *
+                            *                            *
+                            ******************************
+                            Time: 0:24
+                            Best Time: 2:15
+                            Score: 2
+                            High Score: 15
+                            Press P to Pause
 ```
 
 ---
