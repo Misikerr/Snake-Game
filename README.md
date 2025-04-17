@@ -10,7 +10,7 @@ A classic Snake game written in C++ with fun modern features like colorful fruit
 
 ## 🎮 Features
 
- 
+ - ✅ Classic Snake gameplay in the console 
 - ⏱️ Real-time game timer  
 - 🥇 High Score and Best Time saving to `highscore.txt`  
 - 🟦 Colorful fruit and special food
