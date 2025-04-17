@@ -66,7 +66,7 @@ cl snake_game.cpp
 ## 📁 File Structure
 
 ```
-├── snake_game.cpp       // Main game source code
+
 
 
 ```
