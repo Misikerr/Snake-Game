@@ -68,7 +68,7 @@ cl snake_game.cpp
 ```
 ├── snake_game.cpp       // Main game source code
 ├── highscore.txt        // Automatically created to store high score and time
-├── README.md            // This readme file
+
 ```
 
 ---
