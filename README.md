@@ -65,11 +65,7 @@ cl snake_game.cpp
 
 ## 📁 File Structure
 
-```
 
-
-
-```
 
 ---
 
