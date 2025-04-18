@@ -2,7 +2,7 @@
 
 ---
 
-# 🐍 Snake Game - Console Edition (C++){}
+# 🐍 Snake Game - Console Edition (C++){
 
 A classic Snake game written in C++ with fun modern features like colorful fruits, timed special food, game timer, high score saving, and obstacles. Play in the console, avoid obstacles, and try to beat your best time and high score!
 
